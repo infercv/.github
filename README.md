@@ -1,8 +1,8 @@
-# Infer.cv - GitHub Organization
+# infer.cv - GitHub Organization
 
-This repository contains the public GitHub organization profile and community configuration for [Infer.cv](https://infer.cv).
+This repository contains the public GitHub organization profile and community configuration for [infer.cv](https://infer.cv).
 
-**Infer.cv** is a developer platform for adding computer vision capabilities to applications.
+**infer.cv** is a developer platform for adding computer vision capabilities to applications.
 
 **On-device when supported. Cloud when needed.**
 
@@ -19,4 +19,4 @@ The public organization overview is maintained in [`profile/README.md`](profile/
 
 ---
 
-© 2026 Infer.cv
+© 2026 infer.cv
