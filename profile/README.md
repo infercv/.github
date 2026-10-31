@@ -1,4 +1,4 @@
-# infer.cv
+# Infer.cv
 
 ### Computer Vision for Your Apps
 
@@ -6,7 +6,7 @@ Add ready-to-use computer vision capabilities to your applications without manag
 
 **On-device when supported. Cloud when needed.**
 
-infer.cv is building a developer platform for image and video understanding, with versioned capabilities, structured outputs, and a consistent interface across supported execution environments.
+Infer.cv is building a developer platform for image and video understanding, with versioned capabilities, structured outputs, and a consistent interface across supported execution environments.
 
 ### What we're building
 
@@ -23,4 +23,4 @@ Repositories will be published here as they're ready.
 
 ### Get Started
 
-**[Visit infer.cv](https://infer.cv)** to learn more about the platform.
+**[Visit Infer.cv](https://infer.cv)** to learn more about the platform.
